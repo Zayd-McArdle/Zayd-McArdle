@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zayd-McArdle
-- 👀 I’m interested in programming in the .NET ecosystem, working with cloud and automation.
-- 🌱 I’m currently learning Axum, Rust, JWT Authentication, and others.
+- 👀 I’m interested in programming in the Rust ecosystem, working with cloud and automation.
+- 🌱 I’m currently learning Axum, Rust, and others.
 
 <!---
 Zayd-McArdle/Zayd-McArdle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
